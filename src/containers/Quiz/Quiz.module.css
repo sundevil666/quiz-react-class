@@ -1,0 +1,11 @@
+.quiz {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    flex-grow: 1;
+    width: 100%;
+}
+.quiz-wrapper {
+    width: 100%;
+    max-width: 600px;
+}

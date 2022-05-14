@@ -15,3 +15,7 @@
 .error {
     background-color: rgba(157, 48, 100, .2);
 }
+.flex {
+    display: flex;
+    gap: 10px;
+}

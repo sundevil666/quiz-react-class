@@ -5,7 +5,7 @@
     bottom: 0;
     width: 100%;
     max-width: 300px;
-    padding: 20px 30px;
+    padding: 100px 20px 30px;
     background-color: #fafafa;
     transform: translateX(0);
     transition: transform .2s;

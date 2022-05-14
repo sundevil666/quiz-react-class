@@ -1,0 +1,29 @@
+.Input {
+    position: relative;
+    padding-bottom: 15px;
+}
+.Input label {
+    margin-bottom: 3px;
+    display: block;
+}
+.Input input {
+    display: block;
+    border: 1px solid #ccc;
+    padding: 7px;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+    width: 100%;
+    outline: none;
+    height: 40px;
+    border-radius: 5px;
+}
+.Input span {
+    color: #ff0000;
+    font-size: 12px;
+    position: absolute;
+    bottom: 3px;
+    left: 0;
+}
+.invalid label {
+    color: #ff0000;
+}
